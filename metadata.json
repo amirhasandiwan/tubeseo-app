@@ -1,0 +1,6 @@
+{
+  "name": "TubeSEO",
+  "description": "AI-powered YouTube SEO specialist and content strategist generating high-CTR titles, optimized descriptions, tags, hashtags, and video chapters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
